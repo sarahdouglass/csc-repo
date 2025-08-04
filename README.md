@@ -1,1 +1,1 @@
-# csc-repo
+# CSC Documentation Website Repository
