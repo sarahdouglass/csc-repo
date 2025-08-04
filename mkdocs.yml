@@ -1,0 +1,23 @@
+site_name: CSC Documentation
+nav:
+- Home: index.md
+- User Guide:
+  - About: about.md
+  - Physical Inspection: phys.md
+  - Cosmic Run: run.md
+
+- Board Information:   
+  - Timeline: boards.md  
+  - Problematic: problem.md  
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+plugins:
+  - glightbox
+
+theme:
+  name: material
+  palette: slate
+   
+ 
