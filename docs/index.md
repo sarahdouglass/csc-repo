@@ -27,6 +27,13 @@ Connecting to Git -
 https://www.mkdocs.org/user-guide/deploying-your-docs/  
 Theme Git -   
 https://github.com/squidfunk/mkdocs-material  
+
+## Helpful Twikis  
+Evaldas Notes on CMS Muon System Firmware  
+https://twiki.cern.ch/twiki/bin/view/Main/EvaldasNotes  
+CSC Firmware GitHub  
+https://github.com/csc-fw  
+
   
 
 

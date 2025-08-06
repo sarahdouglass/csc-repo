@@ -50,8 +50,11 @@ Below are screenshots of the duck files that should be selected/enabled.
   - Check crate controllers, total crates 1, active crates 1 means we are communication  
   - Power up init button  
   - Check DMB status, we use version VE0_04 for taking the cosmic run, should already be on the boards  
-  - CFED status, 1 to 7 should be all green, if anything is red you must update the software (this should be an internal link to troubleshooting page)  
-  - Updating software: Navigate to DMB Utils, power cycle. If this doesn't work, go to CFEB Utils and download firmware 
+  - CFED status, 1 to 7 should be all green
+
+!!! note "If anything is red"
+
+    Navigate to DMB Utils, power cycle the board. If this does not resolve the problem, find CFEB Utils and download firmware where necessary
 
 
 #### Operating the X2O Boards   
